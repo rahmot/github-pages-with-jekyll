@@ -13,3 +13,8 @@ github_username:  rahmot
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+
+---
+title: "A journey to the unknown"
+date: 2018-06-07
+---
