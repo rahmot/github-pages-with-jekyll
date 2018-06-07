@@ -13,7 +13,7 @@ github_username:  rahmot
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
-
+#
 ---
 title: "Welcome to Rahmot Renaissance"
 date: 2018-06-07
