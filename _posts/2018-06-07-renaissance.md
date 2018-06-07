@@ -15,8 +15,6 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
 
 ---
-layout: post
 title:  "Welcome to Renaissance!"
-date:   2018-06-07 02:39:01 -0600
-categories: Renaissance note 
+date:   2018-06-07
 ---
